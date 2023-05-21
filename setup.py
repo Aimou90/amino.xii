@@ -14,19 +14,19 @@ with open("README.md", "r") as stream:
     long_description = stream.read()
 
 setup(
-    name="amino.fix",
+    name="aminoxii",
     license="MIT",
-    author="Minori",
-    version="2.3.6.1",
-    author_email="minorigithub@gmail.com",
-    description="Library for Amino. Discord - https://discord.gg/Bf3dpBRJHj",
-    url="https://github.com/Minori100/Amino.fix",
+    author="Aimou90",
+    version="0.1",
+    author_email="aimouu26@gmail.com",
+    description="Library for Amino. Discord. ",
+    url="https://github.com/Aimou90/aminoxii",
     packages=find_packages(),
     long_description=long_description,
     install_requires=requirements,
     keywords=[
         'aminoapps',
-        'amino.fix',
+        'aminoxii',
         'amino',
         'amino-bot',
         'narvii',
@@ -34,7 +34,7 @@ setup(
         'python',
         'python3',
         'python3.x',
-        'minori'
+ 
     ],
     python_requires='>=3.6',
 )
