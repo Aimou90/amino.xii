@@ -2,4 +2,4 @@
 
 ### Así lo instalas
 
-`pip install aminox`
+`pip install aminoxii`
